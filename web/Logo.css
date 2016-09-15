@@ -1,0 +1,12 @@
+
+#Logo{
+     text-align: center;
+    position: relative;
+}
+
+#Logo > img{
+    height: 160px;
+    width: 220px;
+   
+    left: 50px;
+}

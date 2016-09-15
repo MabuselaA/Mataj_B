@@ -1,0 +1,43 @@
+#wrapper{
+                 margin: 0 0 0 24px;
+                 max-width: 951px;
+                 padding-right: 320px;
+                 top: 5100px;
+             }
+             
+             #content{
+                 float: left;
+                 width: 100%;
+                 min-width: 400px;
+                 padding-right: 20px;
+                 background-color: #EEE;
+             }
+             
+             .sidebar{
+                 float: left;
+                 width: 309px;
+                 margin-right: -1000px;
+                 padding-top: 50px;
+                 background-color: #8B4500;
+             }
+             .sidebar a{
+                 color: #fff;
+             }
+             footer{
+                
+                 position: absolute;
+                top: 1255px;
+                 left: 600px;
+                  
+             }
+             #foot{
+                  position: absolute;
+                top: 905px;
+                 left: 600px;
+             }
+             #Rfoot{
+                  position: absolute;
+                top: 905px;
+                 left: 600px;
+             }
+             
